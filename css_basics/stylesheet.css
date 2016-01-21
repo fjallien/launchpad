@@ -1,0 +1,24 @@
+p{
+    color: blue;
+    font-family: 'Lobster', cursive;
+    font-size: 20px; /*Hola*/
+}
+
+.class_test{
+    color:yellow;
+    font-size:10px;
+}
+
+#id_test{
+    color:red;
+    font-size:60px;
+}
+
+.hover_test:hover{
+    background-color:red;
+}
+
+a:visited{
+    color:pink;
+}
+
